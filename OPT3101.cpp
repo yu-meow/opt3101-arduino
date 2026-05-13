@@ -1,3 +1,5 @@
+#pragma GCC diagnostic warning "-Wparentheses"
+
 #include "OPT3101.h"
 #include <Wire.h>
 
